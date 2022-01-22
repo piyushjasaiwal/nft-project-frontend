@@ -1,0 +1,23 @@
+.item{
+    padding: 26px;
+    margin-top: 8px;
+    background-color: ghostwhite;
+    cursor: pointer;
+}
+
+.item .ro{
+    align-items: center;
+}
+
+.item .ro img{
+    margin-right: 16px;
+    margin-left: 16px;
+}
+
+.title{
+    font-weight: 600;
+}
+
+.item:hover{
+    background-color: aquamarine
+}
